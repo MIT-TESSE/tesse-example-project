@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/TESSE/Scenes/tesse_multiscene.unity
     guid: d79e0522940c5894186ea2181ee9e011
   - enabled: 1
-    path: Assets/TESSE/Scenes/tesse_multiagent_test_scene.unity
+    path: Assets/my_scenes/tesse_multiagent_test_scene.unity
     guid: 34f8325816a606546b5e2b98c710bfd4
   m_configObjects: {}
