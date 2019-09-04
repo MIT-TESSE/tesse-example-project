@@ -1,0 +1,7 @@
+# Ignore platform specific Unity stuff
+Library/
+obj/
+.vs/
+
+*.csproj
+*.sln
