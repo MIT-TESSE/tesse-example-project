@@ -1,6 +1,6 @@
 # tesse-example-project
 
-This example project demonstrates how to incorporate [tesse-core](../tesse-core) into a Unity project. This particular project has no external dependencies other than requiring Unity. It includes a very simple and open scene.
+This example project demonstrates how to incorporate [tesse-core](../../../tesse-core) into a Unity project. This particular project has no external dependencies other than requiring Unity. It includes a very simple and open scene.
 
 ## Setup
 
@@ -15,7 +15,7 @@ git clone git@github.mit.edu:TESS/tesse-example-project.git
 
 ## Usage
 
-See [tesse-core](../tesse-core) for details on basic usage.
+See [tesse-core](../../../tesse-core) for details on basic usage.
 
 ## Disclaimer
 
