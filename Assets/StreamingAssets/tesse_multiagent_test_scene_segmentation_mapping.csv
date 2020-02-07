@@ -1,7 +1,8 @@
-tesse_multiscene_agent,193,68,208,255
-white_cube,98,118,206,255
-tesse_poster,234,76,83,255
-wall,4,136,156,255
-black_cube,0,255,255,255
-floor,48,237,51,255
-tesse_cube,245,231,50,255
+Graphics,166,6,23,255
+white_cube,236,128,11,255
+tesse_poster,34,231,39,255
+wall,188,215,165,255
+black_cube,44,24,76,255
+floor,136,132,233,255
+tesse_cube_gold,103,252,219,255
+tesse_cube_black,93,116,233,255
