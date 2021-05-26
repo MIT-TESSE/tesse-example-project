@@ -7,7 +7,7 @@ This example project demonstrates how to incorporate [tesse-core](../../../tesse
 1. Install Unity 2019.1 or newer. This project was tested using 2019.1.0f2.
 2. Clone the repository to the desired location: 
 ```
-git clone --recurse-submodules git@github.mit.edu:TESS/tesse-example-project.git
+git clone --recurse-submodules git@github.com:MIT-TESSE/tesse-example-project.git
 ```
 3. Open the Unity editor and select the folder as as existing project.
 4. Navigate to `Assets > TESSE > Scenes` in the `Project` tab of Unity. Double click on the `tesse_multiscene` scene to open it.
